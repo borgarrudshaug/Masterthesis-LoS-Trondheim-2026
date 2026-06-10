@@ -2,7 +2,7 @@
 # Taste and odour complaint analysis 
 # Master thesis: Borgar Rudshaug, NTNU 2026
 # ============================================================
-# Sys.setenv(FROST_CLIENT_ID = "86043375-7353-4916-8234-23b84bfb30e6")
+# Sys.setenv(FROST_CLIENT_ID = "USER ID")
 # ---- 0. Setup ----
 
 library(tidyverse)
